@@ -12,10 +12,11 @@
 ### Social Media:
 
 
-[<img align="left" alt="vcolen| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vcolen| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+  [<img align="left" alt="codeSTACKr | Instagram" width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
 <br />
+<br/>
 
 ### Languages and Tools:
 
