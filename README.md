@@ -5,8 +5,7 @@
 - :fire: I'm currently learning Swift 
 - ✅ Main goal is to contribute to an iOS open-source project until the end of the year
 - :two:nd term studying Computer Science at PUC Minas
-- :man_shrugging: If you care: I love to play ♟️ chess & 🎮 games.
-  - & code 💻
+- 💻 I love coding!
 
 
 ### Social Media:
