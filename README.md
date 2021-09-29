@@ -1,11 +1,11 @@
-### Hello everyone, I'm Victor! Nice to meet you :)
+### Hey! This is Victor :)
 
 ### Thank you for taking interest in my profile! 🥳
 
 - :fire: I'm currently learning Swift 
 - ✅ Main goal is to contribute to an iOS open-source project until the end of the year
 - :two:nd term studying Computer Science at PUC Minas
-- 💻 I love coding!
+- 💻 I love to code :)
 
 
 ### Social Media:
