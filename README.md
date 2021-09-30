@@ -3,7 +3,7 @@
 ### Thank you for taking interest in my profile! 🥳
 
 - :fire: I'm currently learning Swift 
-- ✅ Main goal is to contribute to an iOS open-source project until the end of the year
+- ✅ Main goal is to contribute to an iOS open-source project by the end of the year
 - :two:nd term studying Computer Science at PUC Minas
 - 💻 I love to code :)
 
