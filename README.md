@@ -7,7 +7,7 @@
 - :fire: I'm currently focusing my studies on Swift and Python
 - ✅ Main goal is to contribute to an iOS open-source project by the end of the year
 - :two:nd term studying Computer Science at PUC Minas
-- 💻 I love to code :)
+- 💻 Coding is my passion :)
 
 <div align="center">
   <a href="https://github.com/vcolen">
