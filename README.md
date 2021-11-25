@@ -31,7 +31,7 @@
 ## Current courses:
   <div style="display: inline_block">
     <img align="center" alt="Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-    Day 2️⃣3️⃣ out of 💯DaysOfSwiftUI 🐦
+    Day 2️⃣4️⃣ out of 💯DaysOfSwiftUI 🐦
     <br>
     <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     Day 1️⃣9️⃣ out of 💯DaysOfPython 🐍
