@@ -4,7 +4,7 @@
 
 ### Thank you for taking interest in my profile! 🥳
 
-- :fire: I'm currently focusing my studies on Swift and Python
+- :fire: I'm currently focusing my studies on Swift 
 - ✅ Main goal is to contribute to an iOS open-source project by the end of the year
 - :two:nd term studying Computer Science at PUC Minas
 - 💻 Coding is my passion :)
@@ -32,6 +32,3 @@
   <div style="display: inline_block">
     <img align="center" alt="Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
     Day 5️⃣5️⃣ out of 💯DaysOfSwiftUI 🐦
-    <br>
-    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    Day 2️⃣0️⃣ out of 💯DaysOfPython 🐍
