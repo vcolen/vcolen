@@ -4,9 +4,9 @@
 
 ### Thank you for taking interest in my profile! 🥳
 
-- :fire: I'm currently focusing my studies on Swift 
+- :fire: I'm currently learning Swift
 - ✅ Main goal is to contribute to an iOS open-source project by the end of the year
-- :two:nd term studying Computer Science at PUC Minas
+- 3️⃣rd term studying Computer Science at PUC Minas
 - 💻 Coding is my passion :)
 
 <div align="center">
