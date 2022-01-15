@@ -29,6 +29,10 @@
 </div>
   
 ## Current courses:
-  <div style="display: inline_block">
-    <img align="center" alt="Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-    Day 6️⃣0️⃣ out of 💯 DaysOfSwiftUI 🐦
+  <img align="center" alt="Swift" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+  Day 1️⃣6️⃣ out of 💯 DaysOfSwift 🐤  
+  <br>
+  <img align="center" alt="SwiftUI" height="50" width="60" src="https://img.icons8.com/color/48/000000/swiftui.png"/>
+  Day 6️⃣1️⃣ out of 💯 DaysOfSwiftUI 🐦
+    
+    
