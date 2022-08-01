@@ -27,12 +27,3 @@
    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
    <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
-  
-## Current courses:
-  <img align="center" alt="Swift" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-    Day 1️⃣8️⃣ out of 💯 DaysOfSwift 🐤  
-  <br>
-  <img align="center" alt="SwiftUI" height="50" width="60" src="https://img.icons8.com/color/48/000000/swiftui.png"/>
-    Day 6️⃣1️⃣ out of 💯 DaysOfSwiftUI 🐦
-    
-    
