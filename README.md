@@ -6,7 +6,7 @@
 
 - :fire: I'm currently learning Swift
 - ✅ Main goal is to land an iOS Dev job by the end of the year (I did it guys!)
-- 3️⃣rd term studying Computer Science at PUC Minas
+- :four:th term studying Computer Science at PUC Minas
 - 💻 Coding is my passion :)
 
 <div align="center">
