@@ -4,9 +4,7 @@
 
 ### Thank you for taking interest in my profile! 🥳
 
-- :fire: I'm currently learning Swift
-- ✅ Main goal is to land an iOS Dev job by the end of the year (I did it guys!)
-- :four:th term studying Computer Science at PUC Minas
+-  iOS developer @ioasys
 - 💻 Coding is my passion :)
 
 <div align="center">
