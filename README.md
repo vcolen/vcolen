@@ -4,7 +4,8 @@
 
 ### Thank you for taking interest in my profile! 🥳
 
--  iOS developer @ioasys
+-  iOS developer
+- 📊 Data Science researcher
 - 💻 Coding is my passion :)
 
 <div align="center">
