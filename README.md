@@ -5,7 +5,7 @@
 ### Thank you for taking interest in my profile! 🥳
 
 - 📊 Data Scientist
-- - 💻 Coding is my passion :)
+- 💻 Coding is my passion :)
 
 <div align="center">
   <a href="https://github.com/vcolen">
