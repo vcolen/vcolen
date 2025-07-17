@@ -4,9 +4,8 @@
 
 ### Thank you for taking interest in my profile! 🥳
 
--  iOS developer
-- 📊 Data Science researcher
-- 💻 Coding is my passion :)
+- 📊 Data Scientist
+- - 💻 Coding is my passion :)
 
 <div align="center">
   <a href="https://github.com/vcolen">
