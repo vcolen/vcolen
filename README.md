@@ -4,7 +4,7 @@
 
 ### Thank you for taking interest in my profile! 🥳
 
-- 📊 Data Scientist
+- 📊 Data Engineer
 - 💻 Coding is my passion :)
 
 <div align="center">
